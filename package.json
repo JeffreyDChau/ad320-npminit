@@ -1,0 +1,19 @@
+{
+  "name": "ad320-npminit",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyDChau/ad320-npminit.git"
+  },
+  "author": "Jeffrey Chau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffreyDChau/ad320-npminit/issues"
+  },
+  "homepage": "https://github.com/JeffreyDChau/ad320-npminit#readme"
+}
